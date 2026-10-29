@@ -5,7 +5,7 @@ Test your reaction time with Arduino.
 
 ## How to Use
 
-First, download the Arduino IDE if you don't have it. Then, go to the file called "Reaction_Time_test.ino" and copy and paste that into the Arduino IDE. Finally, upload a "Liquid Crystal" library. The wiring is listed below with a diagram.
+First, download the Arduino IDE if you don't have it. Then, go to the file called "Reaction_Time_test.ino" and copy and paste that into the Arduino IDE. Finally, upload a "Liquid Crystal" library. The wiring is listed below with a diagram and picture.
 
 ## Building
 
@@ -25,6 +25,10 @@ First, download the Arduino IDE if you don't have it. Then, go to the file calle
 ### Diagram
 
 ![Screenshot 1](Screenshot%202026-10-28%20171356.png)
+
+### Picture
+
+![Picture 1](WIN_20261028%202026-17-29-11%20Pro.jpg)
 
 ## Created With
 
