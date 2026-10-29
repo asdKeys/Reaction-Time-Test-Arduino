@@ -28,7 +28,7 @@ First, download the Arduino IDE if you don't have it. Then, go to the file calle
 
 ### Picture
 
-![Picture 1](WIN_20261028%202026-17-29-11%20Pro.jpg)
+![Picture 1](WIN_20261028_17_29_11_Pro.jpg)
 
 ## Created With
 
